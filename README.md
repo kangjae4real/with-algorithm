@@ -36,7 +36,3 @@ $ pyenv shell 3.8
 ### 해시
 해시문제 <br />
 [Link](https://www.naver.com)
-## 금주 문제
-### 해시
-해시문제 <br />
-[Link](https://www.naver.com)
