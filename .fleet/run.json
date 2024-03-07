@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Build",
+            "program": "g++",
+            "args": ["-W", "-Wall", "--std=c++17", "-o$FILE_NAME_NO_EXT$", "$FILE$"],
+        },
+        {
+            "type": "command",
+            "name": "Run",
+            "program": "./$FILE_NAME_NO_EXT$",
+            "dependsOn": ["Build"],
+        },
+        {
+            "type": "command",
+            "name": "Run and Clean-up",
+            "program": "rm",
+            "args": ["-rf", "$FILE_NAME_NO_EXT$"],
+            "dependsOn": ["Run"],
+        },
+        
+    ]
+}
