@@ -32,3 +32,8 @@ $ pyenv shell 3.8
 [Link](https://gcc.gnu.org)에서 설치합니다.
 #### Python
 [Link](https://www.python.org/downloads)에서 설치합니다.
+
+## 금주 문제
+### Hash(해시)
+금주 주제는 해시입니다. <br /> 프로그래머스 문제를 이용합니다. <br />
+[프로그래머스 카테고리](https://school.programmers.co.kr/learn/courses/30/parts/12077)
