@@ -32,7 +32,3 @@ $ pyenv shell 3.8
 [Link](https://gcc.gnu.org)에서 설치합니다.
 #### Python
 [Link](https://www.python.org/downloads)에서 설치합니다.
-## 금주 문제
-### 해시
-해시문제 <br />
-[Link](https://www.naver.com)
