@@ -4,7 +4,7 @@
             "type": "command",
             "name": "Build",
             "program": "gcc",
-            "args": ["-W", "-Wall", "-o $FILE_NAME_NO_EXT$", "$FILE$"],
+            "args": ["-W", "-Wall", "-time", "-o $FILE_NAME_NO_EXT$", "$FILE$"],
         },
         {
             "type": "command",
