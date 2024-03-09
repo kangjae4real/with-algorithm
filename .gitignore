@@ -1,6 +1,8 @@
-# Jetbrains IDE Environment
+# Jetbrains Environment
 .idea
 **/*/.idea
+.fleet
+**/*/.fleet
 
 # Misc
 .DS_Store
